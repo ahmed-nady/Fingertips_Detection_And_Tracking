@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Experiment 
+Recognizer="tablet"
+GestureSet="$1" 
+SamplesDirectory="C:\Users\lanthony\Documents\dev\ndollar\n-protractor\xml_logs\unistrokes-medium" 
+TestMethod="RANDOM100"
+SearchMethod="Protractor"
+RotationInvariant="false" 
+ProcessUnistrokes="false"
+Include1D="true"
+Include2D="true"
+TestFor1D="true"
+UseUniformScaling="true"
+MatchSameNumberOfStrokes="true" 
+DoStartAngleComparison="true" 
+StartAngleIndex="8" 
+StartAngleThreshold="30"
+NumResamplePoints="96" 
+TabletRecognizerWordList="A,E,K,Q,X,2,4,5,7,8,-,+,o"
+>
+</Experiment>
+
